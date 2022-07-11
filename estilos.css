@@ -152,6 +152,9 @@
     flex-wrap: wrap;
 
 }
+li:hover{
+    transform: scale(2);
+}
 .number{
     text-align: center;
     font-size: 30px;
